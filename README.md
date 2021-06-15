@@ -1,2 +1,2 @@
-# Spatiotemporal-Attention-for-B-line-Detection
+# Spatiotemporal-Attention-for-B-line-Detection and Localization
 This repo will be updated later...
